@@ -6,3 +6,5 @@
     参考《ubuntu-18.04.1更新源.md》
 ## 4.配置ssh服务
     参考《ubuntu 配置远程访问.md》
+## 5.安装配置vscode
+    参考《ubuntu离线安装vscode.md》
